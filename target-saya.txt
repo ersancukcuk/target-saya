@@ -2,3 +2,5 @@ TARGET SAYA
 -Menguasai HTML , CSS , dan Javascript
 -Dapat menguasai UI/UX design dengan baik
 -Dapat menguasai Backend-Developer
+-Mampu menjadi Fullstack Developer
+-Menjadi youtuber untuk tutorial pemograman website
